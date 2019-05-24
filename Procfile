@@ -1,1 +1,1 @@
-web: gunicorn goliveheroku.wsgi
+web: gunicorn GoLiveHeroku.wsgi
